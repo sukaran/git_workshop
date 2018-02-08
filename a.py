@@ -1,3 +1,3 @@
-#include<iostream>
 
-print "hello"
+
+print "hello world"
